@@ -89,7 +89,7 @@ export default function Resistance() {
                 <h2 className='title text-center'>Add Exercise</h2>
                 <form className='resistance-form d-flex flex-column' onSubmit={handleResistanceSubmit}>
                     <div className='d-flex justify-content-center'><img alt="resistance" src={resistanceIcon} className="exercise-form-icon" /></div>
-                    <label>Name:</label>
+                    <label>Name: {resistanceForm.name}</label>
                     <input type="text" name="name" id="name" placeholder="Bench Press"
                         value={resistanceForm.name} onChange={handleResistanceChange} />
                     <label>Weight (lbs):</label>

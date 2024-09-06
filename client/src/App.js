@@ -27,7 +27,7 @@ function App() {
         <Route path="/exercise" element={<Exercise />} />
         <Route path="/exercise/cardio" element={<Cardio />} />
         <Route path="/exercise/resistance" element={<Resistance />} />
-        <Route path="*" element={<Error />} />
+        <Route path= "*" element={<Error />} />
       </Routes>
     </Router >
   );

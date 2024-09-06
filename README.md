@@ -78,11 +78,11 @@ This project is licensed under MIT, for more information please visit [this webs
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
+- Made with ❤️ by Aman Purohit
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](amanpurohit785@gmail.com)
+- [Github Profile](https://github.com/AmanPurohit2002/)

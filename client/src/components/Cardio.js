@@ -85,7 +85,7 @@ export default function Cardio() {
                 <h2 className='title text-center'>Add Exercise</h2>
                 <form className='cardio-form d-flex flex-column' onSubmit={handleCardioSubmit}>
                     <div className='d-flex justify-content-center'><img alt="cardio" src={cardioIcon} className="exercise-form-icon" /></div>
-                    <label >Name:</label>
+                    <label >Name: {cardioForm.name}</label>
                     <input type="text" name="name" id="name" placeholder="Running"
                         value={cardioForm.name} onChange={handleCardioChange} />
                     <label >Distance (miles):</label>
