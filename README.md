@@ -79,10 +79,3 @@ This project is licensed under MIT, for more information please visit [this webs
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
 
-
-## Questions?
-
-Please feel free to contact me if you need any further information:
-
-- [Email](amanpurohit785@gmail.com)
-- [Github Profile](https://github.com/AmanPurohit2002/)
