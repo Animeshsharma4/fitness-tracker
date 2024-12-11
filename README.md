@@ -78,7 +78,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Aman Purohit
+
 
 ## Questions?
 
